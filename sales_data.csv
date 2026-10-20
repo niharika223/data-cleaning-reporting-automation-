@@ -1,0 +1,21 @@
+OrderID,Product,Category,Quantity,Sales
+101,Laptop,Electronics,2,80000
+102,Headphones,Electronics,3,6000
+103,Tshirt,Clothing,5,2500
+104,Chair,Home,2,4000
+105,Football,Sports,4,3200
+106,Laptop,Electronics,1,40000
+107,Shoes,Sports,2,5000
+108,Table,Home,1,7000
+109,Headphones,Electronics,2,4000
+110,Tshirt,Clothing,3,1500
+111,Smartphone,Electronics,2,30000
+112,Shoes,Sports,1,2500
+113,Chair,Home,3,6000
+114,Laptop,Electronics,1,40000
+115,Football,Sports,2,1600
+116, Laptop ,Electronics,2,80000
+117,Table,Home,1,
+118,Chair,Home,2,3500
+119,Football,Sports,4,3200
+119,Football,Sports,4,3200
